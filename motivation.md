@@ -25,3 +25,5 @@ Here's a collection of words that have motivated me:
 - "If you wake up and the first thing you realize it that you're going to die someday, then it puts you on your game for the day, saying, let's do stuff!"
 - What am I motivated in?
 - What's the absolute minimum visible (not viable) product that I can make and finish today? This week?
+
+https://www.quora.com/Im-addicted-to-self-improvement-but-I-lack-motivation-How-do-I-fix-that/answer/Danial-Goodwin?share=1
