@@ -1,4 +1,25 @@
 
+possible-title
+  Never Clever
+  Accidentally Clever
+
+
+music-note [
+  EDEGD
+  (ACE ACE ACEDCB)x2 (DCA DCA DCB)x2
+]
+
+title [
+  List of Lies
+]
+
+topic [
+  potato [
+    I'm not a potato. I'm not a potato, oh oh
+    Last line(?): No one ever said you were.
+  ]
+]
+
 
 # Rhymes (and slant rhymes)
 Attitude of gratitude
